@@ -1,8 +1,8 @@
 # Algo-campus
 
 1. Compétences à valider:
-..* BFS
-..* Tri rapide "Quick sort"
+> BFS
+> Tri rapide "Quick sort"
 
 2. Get Started :-)
 
