@@ -4,7 +4,7 @@
 - BFS
 - Tri rapide "Quick sort"
 
-2. Get Started :-)
+## Get Started :-)
 
 ### BFS
 HTML => algo.html
